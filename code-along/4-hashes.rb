@@ -36,4 +36,5 @@ status = profile["timeline"][0]["status"]
 
 profile["name"] = "Benjamin"
 profile["age"] = 37
-puts profile
+# puts profile
+
