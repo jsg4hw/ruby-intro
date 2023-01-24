@@ -54,3 +54,5 @@ creed = "This Is The Way"
 puts creed.upcase
 puts creed.downcase
 puts creed.swapcase
+
+# data type to represent nothing is nil
