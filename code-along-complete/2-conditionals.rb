@@ -10,10 +10,12 @@ test_is_false = false
 puts test_is_false
 
 # Boolean Expressions
-puts 3 == 2 # returns false
-puts 3 != 2 # returns true
-puts 3 > 2 # returns true
-puts 3 < 2 # returns false
+# puts 3 == 2 # returns false
+# puts 3 != 2 # returns true
+# puts 3 > 2 # returns true
+# puts 3 < 2 # returns false
+# puts 3 <= 2
+# puts 3 >= 2
 
 # If Conditional Logic
 if 3 == 2
